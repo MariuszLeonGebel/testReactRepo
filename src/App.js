@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reacted jeszcze jedna próba
+          Learn Reacted MG czy deploy się uda
         </a>
       </header>
     </div>
